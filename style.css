@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Moniker';
+    src: local('Moniker Light'), local('Moniker-Light'),
+        url('Moniker-Light.woff2') format('woff2'),
+        url('Moniker-Light.woff') format('woff'),
+        url('Moniker-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
